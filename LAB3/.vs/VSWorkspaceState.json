@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LabWebApp",
+    "\\LabWebApp\\LabWebApp",
+    "\\LabWebApp\\LabWebApp\\Areas",
+    "\\LabWebApp\\LabWebApp\\Controllers"
+  ],
+  "SelectedNode": "\\LabWebApp\\LabWebApp\\Controllers\\ProductsController.cs",
+  "PreviewInSolutionExplorer": false
+}
