@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5c56843538944103a6fa1bafc2b4d4d7d7ac9fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63057930aff4a1df1b273b602014689680e57e9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

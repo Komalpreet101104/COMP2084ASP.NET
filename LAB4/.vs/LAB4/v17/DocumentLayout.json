@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWebApp\\LabWebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Views\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWebApp\\LabWebApp\\Views\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp.Tests\\ProductTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWebApp\\LabWebApp.Tests\\ProductTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Controllers\\Products1Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWebApp\\LabWebApp\\Controllers\\Products1Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp.Tests\\LabWebApp.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWebApp\\LabWebApp.Tests\\LabWebApp.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "LabWebApp\\LabWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Program.cs",
+              "RelativeToolTip": "LabWebApp\\LabWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:46:45.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Controllers\\Products1Controller.cs",
+              "RelativeDocumentMoniker": "LabWebApp\\LabWebApp\\Controllers\\Products1Controller.cs",
+              "ToolTip": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Controllers\\Products1Controller.cs",
+              "RelativeToolTip": "LabWebApp\\LabWebApp\\Controllers\\Products1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:46:19.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LabWebApp.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp.Tests\\LabWebApp.Tests.csproj",
+              "RelativeDocumentMoniker": "LabWebApp\\LabWebApp.Tests\\LabWebApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp.Tests\\LabWebApp.Tests.csproj",
+              "RelativeToolTip": "LabWebApp\\LabWebApp.Tests\\LabWebApp.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T21:45:07.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "LabWebApp\\LabWebApp.Tests\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp.Tests\\ProductTests.cs",
+              "RelativeToolTip": "LabWebApp\\LabWebApp.Tests\\ProductTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:44:17.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Views\\Product.cs",
+              "RelativeDocumentMoniker": "LabWebApp\\LabWebApp\\Views\\Product.cs",
+              "ToolTip": "C:\\Users\\komal\\OneDrive\\Documents\\GitHub\\COMP2084ASP.NET\\LAB4\\LabWebApp\\LabWebApp\\Views\\Product.cs",
+              "RelativeToolTip": "LabWebApp\\LabWebApp\\Views\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:43:54.148Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
