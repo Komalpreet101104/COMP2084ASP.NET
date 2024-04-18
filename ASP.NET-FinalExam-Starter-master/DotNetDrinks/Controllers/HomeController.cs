@@ -23,9 +23,14 @@ namespace DotNetDrinks.Controllers
             return View();
         }
 
+    
+        public IActionResult About()
+        {
+            return View();
+        }
+      
         public IActionResult Privacy()
         {
-            // When testing view results, make sure to specify view name
             return View("Privacy");
         }
 
@@ -36,3 +41,9 @@ namespace DotNetDrinks.Controllers
         }
     }
 }
+
+
+    
+
+       
+    
